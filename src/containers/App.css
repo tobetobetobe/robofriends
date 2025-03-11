@@ -1,0 +1,10 @@
+@font-face {
+  font-family: RoboClone;
+  font-weight: bold;
+  src: url("RoboCloneTwoTone-3pmz.otf") format("opentype");
+}
+
+h1 {
+  font-family: RoboClone;
+  color: rgb(12, 202, 196);
+}

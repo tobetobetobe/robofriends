@@ -1,0 +1,12 @@
+/* style={{ overflowY: 'hidden', height: '800px'}} */
+.scrollbox {
+  overflow-y: scroll;
+  height: 800px;
+
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.scrollbox::-webkit-scrollbar {
+  display: none;
+}
